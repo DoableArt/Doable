@@ -1,7 +1,8 @@
 # 🜁 Doable
 
 [Сайт](http://doable.art)
-[Alt](https://doableart.github.io/doable/)
+
+[Alt](https://doableart.github.io/Doable/)
 
 **Doable** — веб-приложение для задач, целей, привычек и дневника.
 

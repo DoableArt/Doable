@@ -79,6 +79,9 @@ function addTask() {
   } else if (text.startsWith("3_")) {
     text = text.slice(2).trim();
     priority = 3;
+  } else if (text.startsWith("2_")) {
+    text = text.slice(2).trim();
+    priority = 2;
   }
 
   tasks[key].push({

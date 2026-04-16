@@ -800,7 +800,7 @@ img {
   align-items: center;
   justify-content: center;
   border-radius: var(--radius-sm);
-  transition: all 0.2s ease;
+  transition: all 0.15s ease;
   font-size: 1.2rem;
   z-index: 1;
 }
@@ -812,7 +812,7 @@ img {
 }
 
 .add-btn:active {
-  transform: translateY(-50%) scale(0.95);
+  transform: translateY(-45%) scale(0.95);
 }
 
 .edit-input {
@@ -831,10 +831,6 @@ button {
 }
 
 button:active {
-  transform: scale(0.95);
-}
-
-.btn:active {
   transform: scale(0.95);
 }
 
